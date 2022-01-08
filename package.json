@@ -10,7 +10,8 @@
   "scripts": {
     "test": "lerna run test --since",
     "new-version": "lerna version --conventional-commits --yes",
-    "diff": "lerna diff"
+    "diff": "lerna diff",
+    "commit": "cz"
   }
 
 }

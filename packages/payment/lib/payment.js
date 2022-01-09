@@ -4,5 +4,5 @@ module.exports = payment;
 
 function payment() {
     // TODO
-    console.log('Hola payment')
+    console.log('Hola payment 22222')
 }
